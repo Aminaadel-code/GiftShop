@@ -1,16 +1,33 @@
-# perfumes_shop
+# 🎁 GiftShop - Personal Gift Store App
 
-A new Flutter project.
+A personal Flutter application for selling gifts, flower bouquets, men’s gifts, graduation gifts, and plush toys.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- Browse multiple gift categories (flowers, graduation, men’s gifts, plush toys)
+- Product detail pages
+- Add to cart functionality
+- Simple and elegant UI
+- Responsive design
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Tech Stack
+
+- *Flutter* (UI toolkit)
+- *Dart* (programming language)
+- (Optional: Firebase for backend if used)
+
+---
+
+## 🗂 Project Structure
+
+```bash
+lib/
+├── models/        # Data models
+├── screens/       # App screens/pages
+├── widgets/       # Reusable UI components
+├── services/      # Backend/API logic
+├── main.dart      # App entry point
